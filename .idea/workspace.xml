@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33b9a58b-eb29-409f-aa66-28f427d26e36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1fst42V7G3EWnOCe8JDOLY5aNja" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\miaosha\src\main\resources" />
+      <recent name="F:\miaosha\src\main\java\com\imooc\miaoshaproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.miaoshaproject.App" />
+      <module name="miaosha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="miaosha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.miaoshaproject.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33b9a58b-eb29-409f-aa66-28f427d26e36" name="Default Changelist" comment="" />
+      <created>1597018432611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597018432611</updated>
+      <workItem from="1597018435112" duration="2917000" />
+      <workItem from="1597021824816" duration="1164000" />
+      <workItem from="1597057560375" duration="27000" />
+      <workItem from="1597132063990" duration="5256000" />
+      <workItem from="1597141000287" duration="1864000" />
+      <workItem from="1597146036993" duration="5852000" />
+      <workItem from="1597156250627" duration="667000" />
+      <workItem from="1597190242658" duration="1292000" />
+      <workItem from="1597195114847" duration="2335000" />
+      <workItem from="1597219856000" duration="635000" />
+      <workItem from="1597221102165" duration="277000" />
+      <workItem from="1597225317074" duration="2343000" />
+      <workItem from="1597233105030" duration="4560000" />
+      <workItem from="1597243326069" duration="891000" />
+      <workItem from="1597286735259" duration="93000" />
+      <workItem from="1597297342755" duration="916000" />
+      <workItem from="1597303844888" duration="1013000" />
+      <workItem from="1597371413767" duration="287000" />
+      <workItem from="1597377524317" duration="447000" />
+      <workItem from="1597389893702" duration="11000" />
+      <workItem from="1597471343685" duration="860000" />
+      <workItem from="1597541273470" duration="385000" />
+      <workItem from="1597890143440" duration="7519000" />
+      <workItem from="1597910632709" duration="250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1597018641752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1597018641752" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597019871965">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1597019871965" />
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597019869193">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1597019869193" />
+    <state x="415" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597136243019">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="415" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1597136243018" />
+    <state width="1237" height="287" key="GridCell.Tab.0.bottom" timestamp="1597472728381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="287" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597472728381" />
+    <state width="1237" height="287" key="GridCell.Tab.0.center" timestamp="1597472728381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="287" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597472728381" />
+    <state width="1237" height="287" key="GridCell.Tab.0.left" timestamp="1597472728380">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="287" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597472728380" />
+    <state width="1237" height="287" key="GridCell.Tab.0.right" timestamp="1597472728381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="287" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597472728381" />
+    <state x="0" y="0" key="Maven.ArtifactSearchDialog" timestamp="1597149530876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1597149530876" />
+    <state x="642" y="114" width="638" height="534" key="find.popup" timestamp="1597018621183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="642" y="114" width="638" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1597018621183" />
+  </component>
+</project>
